@@ -32,7 +32,7 @@ insurance-claim-severity-ml-project/
 │   └── severity_dashboard_data.csv
 │
 ├── data/
-│   └── (Place Kaggle CSVs here – not uploaded due to size)
+│   └── Kaggle Dataset (link in below)
 │
 ├── requirements.txt
 └── README.md
