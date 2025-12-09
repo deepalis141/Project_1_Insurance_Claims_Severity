@@ -22,17 +22,14 @@ This project uses advanced ML techniques, explainability (SHAP), and dashboard v
 ```
 insurance-claim-severity-ml-project/
 │
-├── notebooks/
-│   ├── Claim severity project.ipynb
-││
-├── models/
-│   └── lgbm_severity.pkl
+
+├── Claim severity project.ipynb
 │
-├── dashboard/
-│   └── severity_dashboard_data.csv
+│── lgbm_severity.pkl
 │
-├── data/
-│   └── Kaggle Dataset (link in below)
+│── severity_dashboard_data.csv
+│
+|── Kaggle Dataset (link in below)
 │
 ├── requirements.txt
 └── README.md
