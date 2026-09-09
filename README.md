@@ -37,7 +37,7 @@ insurance-claim-severity-ml-project/
 
 ---
 
-## 📊 **Dataset**
+## 📊 **Dataset** 
 
 French Motor Third-Party Liability (freMTPL2)
 Dataset link (Kaggle):
